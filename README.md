@@ -103,37 +103,13 @@ architected cleanly, looks intentional, and solves something real.
 
 ---
 
-### 🏆 Trophies
 
-<div align="center">
-<img src="<img src="https://github-profile-trophy.vercel.app/?username=Rishit-dev2023&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=0"/>
-</div>
 
----
 
-### 🐍 Contribution Graph
 
-<div align="center">
-<img src="<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishit-dev2023&bg_color=0D1117&color=A78BFA&line=A78BFA&point=F472B6&area=true&hide_border=true" width="95%"/>"/>
-</div>
 
----
 
-### 📈 Activity Graph
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishit-dev2023&bg_color=0D1117&color=A78BFA&line=A78BFA&point=F472B6&area=true&hide_border=true" width="95%"/>
-</div>
-
----
-
-### 🎯 Currently
-
-```text
-📖 Learning    →  System Design · Spring Boot · DSA (CP grind)
-🔨 Building    →  NexusRoute  ·  Kabadiwala
-🎯 Goal        →  SWE Internship 2025 at a product-first company
-```
 
 ---
 
