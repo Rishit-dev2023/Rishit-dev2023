@@ -8,11 +8,11 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-spacefolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://spacefolio-two.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rishit--tripathy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishit-tripathy)
-[![LeetCode](https://img.shields.io/badge/LeetCode-rishittripathy2020-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rishittripathy2020/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-rishittripathy2020-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/rishittripathy2020)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://spacefolio-two.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishit-tripathy)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rishittripathy2020/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/rishittripathy2020)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rishit-dev2023)
 </div>
 
 ---
