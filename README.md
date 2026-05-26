@@ -24,11 +24,12 @@ B.Tech CSE @ IIIT Bhubaneswar  |  2023 – Present
 
 Building full-stack products that sit at the intersection of
 real-world utility, strong engineering, and visual craft.
-I care about what I ship — not just that it runs, but that it's
-architected cleanly, looks intentional, and solves something real.
 
+Currently exploring: AI APIs · Graph Algorithms · System Design
 ```
 
+I care about what I ship — not just that it runs, but that it's
+architected cleanly, looks intentional, and solves something real.
 
 ---
 
@@ -94,6 +95,14 @@ architected cleanly, looks intentional, and solves something real.
 </div>
 
 ---
+
+### 🎯 Currently
+
+```text
+📖 Learning    →  System Design · Spring Boot · DSA (CP grind)
+🔨 Building    →  NexusRoute  ·  Kabadiwala
+🎯 Goal        →  SWE Internship at a product-first company
+```
 
 ---
 
