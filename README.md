@@ -106,7 +106,7 @@ architected cleanly, looks intentional, and solves something real.
 ### 🏆 Trophies
 
 <div align="center">
-<img src="<img src="https://github-profile-trophy.vercel.app/?username=Rishit-dev2023&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=0"/>"/>
+<img src="<img src="https://github-profile-trophy.vercel.app/?username=Rishit-dev2023&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=0"/>
 </div>
 
 ---
