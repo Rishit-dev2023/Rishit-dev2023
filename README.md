@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=110&section=header&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Rishit+Tripathy+%F0%9F%91%8B;Full-Stack+Engineer;Building+products+that+matter;C%2B%2B+%7C+React+%7C+Node.js+%7C+AI+APIs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Rishit+Tripathy+%F0%9F%91%8B;" alt="Typing SVG" />
 
 <br/>
 
@@ -25,11 +25,11 @@ B.Tech CSE @ IIIT Bhubaneswar  |  2023 – Present
 Building full-stack products that sit at the intersection of
 real-world utility, strong engineering, and visual craft.
 
-Currently exploring: AI APIs · Graph Algorithms · System Design
-```
-
 I care about what I ship — not just that it runs, but that it's
 architected cleanly, looks intentional, and solves something real.
+
+```
+
 
 ---
 
@@ -82,27 +82,6 @@ architected cleanly, looks intentional, and solves something real.
 | [**🚀 Spacefolio**](https://spacefolio-two.vercel.app) | Cinematic space-themed portfolio with blackhole transitions, nebula dissolves, and cosmic animations. | React · Tailwind · Vite |
 
 </div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Rishit-dev2023&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishit-dev2023&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=6" height="165"/>
-
-</div>
-
----
-
-### 🎯 Currently
-
-```text
-📖 Learning    →  System Design · Spring Boot · DSA (CP grind)
-🔨 Building    →  NexusRoute  ·  Kabadiwala
-🎯 Goal        →  SWE Internship at a product-first company
-```
 
 ---
 
