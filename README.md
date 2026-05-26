@@ -77,7 +77,7 @@ architected cleanly, looks intentional, and solves something real.
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**🛰️ NexusRoute**](https://nexusroute.live) | Real-time supply chain disruption simulator on a 17-node Indian logistics graph. C++ Dijkstra engine, AI recommendations, live rerouting. | React · C++ · Node.js · Gemini |
+| [**🛰️ NexusRoute**](https://google-solution-challenge-project.vercel.app/) | Real-time supply chain disruption simulator on a 17-node Indian logistics graph. C++ Dijkstra engine, AI recommendations, live rerouting. | React · C++ · Node.js · Gemini |
 | [**♻️ Kabadiwala**](https://kabadiwala-web.vercel.app) | AI waste classifier + gamified recycling platform. Scan trash, earn eco-points, climb city leaderboards. | React · Gemini Vision · MongoDB · OAuth |
 | [**🚀 Spacefolio**](https://spacefolio-two.vercel.app) | Cinematic space-themed portfolio with blackhole transitions, nebula dissolves, and cosmic animations. | React · Tailwind · Vite |
 
