@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=110&section=header&animation=fadeIn" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Rishit+Tripathy+%F0%9F%91%8B;" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Rishit+Tripathy+%F0%9F%91%8B;Full-Stack+Engineer;Building+products+that+matter;C%2B%2B+%7C+React+%7C+Node.js+%7C+AI+APIs" alt="Typing SVG" />
 
 <br/>
 
@@ -13,6 +11,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rishittripathy2020/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/rishittripathy2020)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rishit-dev2023)
+
 </div>
 
 ---
@@ -25,12 +24,11 @@ B.Tech CSE @ IIIT Bhubaneswar  |  2023 – Present
 
 Building full-stack products that sit at the intersection of
 real-world utility, strong engineering, and visual craft.
-
-Currently exploring: AI APIs · Graph Algorithms · System Design
-```
-
 I care about what I ship — not just that it runs, but that it's
 architected cleanly, looks intentional, and solves something real.
+
+```
+
 
 ---
 
@@ -40,10 +38,9 @@ architected cleanly, looks intentional, and solves something real.
 
 **Languages**
 
-
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
 **Frontend**
@@ -61,12 +58,9 @@ architected cleanly, looks intentional, and solves something real.
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
-**AI & APIs**
+**AI & Tools**
 
 ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
-
-**DevOps & Tools**
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
@@ -97,19 +91,9 @@ architected cleanly, looks intentional, and solves something real.
 <img src="https://github-readme-stats.vercel.app/api?username=Rishit-dev2023&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&rank_icon=github" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishit-dev2023&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=6" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Rishit-dev2023&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=F472B6&currStreakLabel=A78BFA" height="165"/>
-
 </div>
 
 ---
-
-
-
-
-
-
-
-
 
 ---
 
